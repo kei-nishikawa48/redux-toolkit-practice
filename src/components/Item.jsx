@@ -1,6 +1,6 @@
 
 const Item = ({ content }) => {
-
+  console.log("aa")
   return (
     <div>
       <input type="checkbox" />
